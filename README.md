@@ -10,3 +10,6 @@ A client processes employee salary details and want to save the processed data t
 ## Application Output
 
 ![](bridge-design-pattern-application-output.PNG)
+
+
+The details about Bridge Design Pattern and the application can be found at the following link: https://executecommands.com/bridge-design-pattern-in-csharp-simple-example/
